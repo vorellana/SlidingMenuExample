@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingMenu Example</string>    
+    <string name="action_settings">Settings</string>
+    <string name="MyText1">Ingrese un Texto:</string>
+    
+    <string name="CheckBox">CheckBox</string>
+    <string name="RadioButton">RadioButton</string>
+
+    
+    <string name="creditsText">Desarrollado por Victor Orellana M. E-Mail: vorellana99@gmail.com</string>
+    <string name="licenses">Licenses</string>
+    <string name="apache_license">SlidingMenu.
+        \u00A9 2012 Jeremy Feinstein. 
+        SlidingMenu is licensed under the Apache License Version 2.0.
+         ActionBarSherlock
+        \u00A9 2012 Jake Wharton. 
+        ActionBarSherlock is licensed under the Apache License Version 2.0.
+		The Apache License Version 2.0
+		You may obtain a copy of the License 
+		center http://www.apache.org/licenses/LICENSE-2.0
+		Unless required by applicable law or agreed to in writing, 
+		software distributed under the License is distributed on an 
+		AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
+		either express or implied. See the License for the specific 
+		language governing permissions and limitations under the License.</string>
+    
+</resources>
